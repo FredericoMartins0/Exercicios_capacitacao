@@ -1,4 +1,4 @@
-package exercicios_capacitacao;
+package exercicios.ex1;
 
 import java.util.Scanner;
 
